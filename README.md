@@ -14,3 +14,4 @@ Well, here it is now
 - The wildfire data is available here: https://www.kaggle.com/datasets/ulasozdemir/wildfires-in-canada-19502021/data
 - For the notebook 'wildfire_modeling' use dataset 'fire_0_df.csv', 'fire_1_df.csv'
 - For the notebook 'haversinedistance' use datasets 'climatetotalcoord1.csv'
+- Relevant csv files required to run notebooks are provided in the relevant folders
