@@ -7,7 +7,7 @@ Capstone project for the Erdos Fall 2023 Data Science Bootcamp
 3. Nihal Uyar
 4. Rohan Sarkar
 
-**Mentor**
+**Mentor**: 
 Kenny Salau
 
 ### Data data everywhere, not a sense to it
