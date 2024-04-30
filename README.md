@@ -6,6 +6,7 @@ Capstone project for the Erdos Fall 2023 Data Science Bootcamp
 2. Murat Uyar
 3. Nihal Uyar
 4. Rohan Sarkar
+
 **Mentor**
 Kenny Salau
 
