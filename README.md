@@ -27,7 +27,6 @@ In the data modeling process, the preliminary tests indicated the viability of d
 ![image](https://github.com/SarkarRohan1/Forest-Fire-aka-Quebec-Wildfire/assets/82277560/e28a99a1-0b28-4609-8ce6-55894a03e597)
 
 
-accuracy_table
 The analysis identifies data limitations, primarily stemming from the non-linear nature of meta-features, such as recent atmospheric conditions and lightning storm occurrences. The study uses aggregated weather data, emphasizing recent atmospheric conditions, and highlights the importance of a more robust dataset for improved predictions. Additionally, the investigation into feature importance shows that total precipitation ranks as the most influential factor in all models, contradicting expectations based on the dataset's structure.
 
 ![image](https://github.com/SarkarRohan1/Forest-Fire-aka-Quebec-Wildfire/assets/82277560/0fbd8ee7-f65c-49eb-a6af-5fa523b5628b)
